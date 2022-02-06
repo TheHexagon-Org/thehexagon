@@ -1,23 +1,16 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [🍯 TheHexagon](README.md)
 
-## The Basics
+## Basic
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+* [Bee NFTs](basic/bee-nfts.md)
+* [Honeycomb Billboard](basic/honeycomb-billboard.md)
+* [NFT Staking](basic/nft-staking.md)
+* [Bee NFT Minting](basic/bee-nft-minting.md)
+* [P2E Game](basic/p2e-game.md)
 
-## Publishing
+***
 
-* [Publishing your content](publishing/publishing-your-content.md)
-
-## Tips and tricks
-
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
-## Next steps
-
-* [What next?](next-steps/what-next.md)
+* [Architecture](architecture.md)
+* [Tokenomics](tokenomics.md)

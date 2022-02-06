@@ -1,0 +1,6 @@
+---
+description: TheHexagon Ecosystem
+---
+
+# Architecture
+

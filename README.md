@@ -1,11 +1,11 @@
-# Get Started
+---
+description: NFTs that earn $Honey(Token that is used for billboard and P2E game)
+---
 
-## Try it out
+# 🍯 TheHexagon
 
-Use this area to play with the editor and get to grips with some of the content blocks. Have a play then move on to the next page!
+Bee NFTs, Honeycomb Billboard, NFT Staking, Token Farm, P2E Game, NFT Marketplace
 
+![](.gitbook/assets/Bee\_Bg.png)
 
-
-## Moving on
-
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+TheHexagon is the first revolution collection of 10,000NFTs, including 1 Queen Bee, 6666 Worker Bees, 1111 Army Bees and 2222 Gang Bees. Each Bee is a unique digital Bee descending upon the Avalanche blockchain.
