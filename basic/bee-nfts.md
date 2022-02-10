@@ -24,10 +24,14 @@ Occasionally, 1% of Worker bees are killed by the Gang bee's powerful attacks.
 
 Gang Bees rob honey when Worker Bees harvest $Honey from staking.
 
+You can check more on [nft-staking.md](nft-staking.md "mention").
+
 ![](<../.gitbook/assets/Robber Bee\_Art.png>)
 
 ### Army Bee
 
 Army Bees protect the honey of Worker Bees from the Gang Bees.
+
+You can check more on [nft-staking.md](nft-staking.md "mention").
 
 ![](<../.gitbook/assets/Soldier bee\_Art.png>)
