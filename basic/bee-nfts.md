@@ -6,32 +6,32 @@ description: Queen Bee(1), Worker Bee(6666), Army Bee(1111), Gang Bee(222)
 
 ### **Queen Bee**&#x20;
 
-This is the rarest Bee within the Bee collection.&#x20;
+This is the rarest Bee within TheHexagon.
 
-The Queen Bee holder can mint Worker Bee NFT that died with $Honey just the number of dead worker bees. (500 $HONEY per NFT).
+The Queen Bee holder can mint Worker Bee NFTs to replace those killed by Gang Bees. (500 $HONEY per NFT)
 
 ![](../.gitbook/assets/Bee\_Art\_02.jpg)
 
 ### **Worker Bee**
 
-Worker Bees get honey($Honey Token) from flowers (NFT Staking Dapp).&#x20;
+Worker Bees get honey ($HONEY token) from Flowers (NFT Staking Dapp).
 
-Occasionally, 1% of Worker bees are killed by the Gang bee's powerful attacks.
+Occasionally, 1% of Worker Bees are killed by Gang Bees.
 
 ![](../.gitbook/assets/Worker.png)
 
 ### Gang Bee
 
-Gang Bees rob honey when Worker Bees harvest $Honey from staking.
+Gang Bees rob honey when Worker Bees harvest $HONEY from staking.
 
-You can check more on [nft-staking.md](nft-staking.md "mention").
+Learn more on [nft-staking.md](nft-staking.md "mention").
 
 ![](../.gitbook/assets/Gang2.png)
 
 ### Army Bee
 
-Army Bees protect the honey of Worker Bees from the Gang Bees.
+Army Bees protect the $HONEY of Worker Bees from the Gang Bees.
 
-You can check more on [nft-staking.md](nft-staking.md "mention").
+Learn more on [nft-staking.md](nft-staking.md "mention").
 
 ![](<../.gitbook/assets/maniac (2).png>)
