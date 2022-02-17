@@ -20,7 +20,7 @@ Mint limit :4 NFTs per wallet&#x20;
 
 Supply : 999&#x20;
 
-Airdrop : Every presale minters will get $HONEY airdrop. (100 $HONEY per ****          NFT)&#x20;
+Airdrop : Every presale minters will get $HONEY airdrop. (50 $HONEY per ****          NFT)&#x20;
 
 ****
 
