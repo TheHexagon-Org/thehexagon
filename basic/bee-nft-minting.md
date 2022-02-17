@@ -12,7 +12,7 @@
 
 **-Pre-Sale** (For just whitelist minters.)&#x20;
 
-Date : 25th Feb 5PM UTC&#x20;
+Date : 24th Feb 5PM UTC&#x20;
 
 Price : 0.6 Avax &#x20;
 
@@ -26,7 +26,7 @@ Airdrop : Every presale minters will get $HONEY airdrop. (100 $HONEY per ****   
 
 **- Public-Sale**&#x20;
 
-Date : 26th Feb 5PM UTC &#x20;
+Date : 25th Feb 5PM UTC &#x20;
 
 Price and giveaways :&#x20;
 
@@ -46,5 +46,7 @@ Price and giveaways :&#x20;
 
 &#x20;   7,000\~10,000 : 2 Avax&#x20;
 
-&#x20;      ( 10 Avax airdrop for Queen Bee holder) ![🎊](https://discord.com/assets/9d23479dd0484c082194cf5a316adf08.svg)
+&#x20;      ( 10 Avax airdrop for Queen Bee holder)&#x20;
+
+
 
