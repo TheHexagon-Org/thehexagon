@@ -10,7 +10,7 @@
 
 ****
 
-**-Pre-Sale** (For just whitelist minters.)&#x20;
+**-Pre-Sale** (For just VIP.)&#x20;
 
 Date : 24th Feb 5PM UTC&#x20;
 
