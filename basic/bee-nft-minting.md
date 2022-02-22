@@ -16,7 +16,7 @@ Date : 24th Feb 5PM UTC&#x20;
 
 Price : 0.6 Avax &#x20;
 
-Mint limit :4 NFTs per wallet&#x20;
+Mint limit :8 NFTs per wallet&#x20;
 
 Supply : 999&#x20;
 
