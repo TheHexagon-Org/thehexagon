@@ -17,5 +17,5 @@ Once the period is over, the hexagons will be returned to empty unless the adver
 To keep the hexagons, advertisers may extend the period with $HONEY.
 
 {% hint style="info" %}
-After 30 consecutive days, and advertiser may choose to keep the hexagon forever for 720 $HONEY
+If you keep the hexagons for 30days, you will be able to buy the kept hexagons forever.
 {% endhint %}
