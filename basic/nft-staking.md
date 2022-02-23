@@ -9,7 +9,7 @@ _**Worker Bees are able to stake to earn $HONEY.**_
 Every Worker Bee NFT holder can stake. There are 2 options.
 
 {% tabs %}
-{% tab title="10 Days Rock" %}
+{% tab title="10 Days Lock" %}
 * Rewards : 5 $HONEY Per Day Per Worker Bee.&#x20;
 * 15\~20% of Income will be robbed by Gang Bees.
 * Army Bees bring back 35% of robbed $HONEY.&#x20;
