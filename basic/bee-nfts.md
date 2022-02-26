@@ -8,7 +8,7 @@ description: Queen Bee(1), Worker Bee(6666), Army Bee(1111), Gang Bee(222)
 
 This is the rarest Bee within TheHexagon.
 
-The Queen Bee holder can mint Worker Bee NFTs to replace those killed by Gang Bees. (500 $HONEY per NFT)
+The Queen Bee holder can mint Worker Bee NFTs to replace those killed by Gang Bees.&#x20;
 
 ![](../.gitbook/assets/Bee\_Art\_02.jpg)
 
