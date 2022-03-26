@@ -4,11 +4,11 @@ description: >-
   game room!
 ---
 
-# Honeycomb Billboard
+# The Honeycomb
 
-The honeycomb is a world of hexagons.&#x20;
+The honeycomb is a world of Hexagons.&#x20;
 
-Here, people can advertise anything by showing any picture or short clip on the hexagons for the purchased period!! The user may also choose to host a Honey Bee Game in their Hexagon. People can select from three options:
+Here, people can advertise anything by showing any picture or short clip on the hexagons for the purchased period!! The user may also choose to host a Bee Game in their Hexagon. People can select from three options:
 
 * 1 day - 10 $Honey
 * 10 days - 85 $Honey
