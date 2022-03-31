@@ -1,5 +1,5 @@
 ---
-description: NFTs that earn $Honey(Token that is used for billboard and P2E game)
+description: NFTs that earn $Honey(Token that is used for the honeycomb and P2E game)
 ---
 
 # 🍯 TheHexagon
